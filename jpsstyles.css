@@ -28,6 +28,36 @@ header {
 width: 100%;
 text-align: center;
 }
+nav {
+display: block;
+width: 100%;
+}
+
+section nav {
+font-size: 0.9em;
+text-align: center;
+padding-bottom: 20px;
+}
+
+
+nav ul {
+list-style-type: none;
+margin: 0px;
+padding: 0px;
+font-size: 0.8em;
+}
+
+nav ul li {
+display: block;
+float: left;
+width: 15.6%;
+height: 20px;
+text-align: center;
+border: 1px solid #2d04ff;
+background-color: rgb(133, 180, 68);
+line-height: 1.5em;
+margin: 0px 4px 5px 0px;
+}
 
 section {
 width: 66%;
@@ -39,7 +69,7 @@ width: 32%;
 margin-top: 2em;
 float: left;
 border: 3px solid black;
-background-color: rgb(255, 177, 255);
+background-color: rgb(133, 180, 68);
 -moz-border-radius: 35px;
  border-radius: 35px;
 box-shadow:10px 10px 20px #000;
@@ -61,7 +91,7 @@ font-size: 0.8em;
 font-style: normal;
 font-variant: small-caps;
 border-top: 1px solid black;
-background-color: rgb(255, 177, 255);
+background-color: rgb(133, 180, 68);
 }
 
 /* Block Styles */
