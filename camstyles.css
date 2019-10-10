@@ -55,7 +55,7 @@ width: 15.6%;
 height: 20px;
 text-align: center;
 border: 1px solid #2d04ff;
-background-color: #afd3f3;
+background-color: rgb(133, 180, 68);
 line-height: 1.5em;
 margin: 0px 4px 5px 0px;
 }
@@ -91,7 +91,7 @@ text-align: left;
 letter-spacing: 0.5em;
 font-weight: normal;
 margin: 0px 0px 5px 0px;
-color: #2d04ff;
+color: rgb(133, 180, 68);
 }
 
 section.full article figure {
@@ -169,7 +169,7 @@ font-size: 0.8em;
 font-style: normal;
 font-variant: small-caps;
 margin-top: 20px;
-border-top: 3px solid #2d04ff;
+border-top: 3px solid rgb(133, 180, 68);
 }
 
 
@@ -225,7 +225,7 @@ section.full h2 {
 width: 100%;
 font-size: 1.5em;
 margin:50px 0px 0px 0px;
-border-top: 2px solid rgb(172, 172, 172);
+border-top: 2px solid rgb(133, 180, 68);
 clear: left;
 float: left;
 }
